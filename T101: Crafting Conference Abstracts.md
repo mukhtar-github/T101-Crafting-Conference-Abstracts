@@ -80,3 +80,9 @@ There's a *here's what's true today of the topic, but what if there was a thing 
 ### The "Bright & Shiny" Thing
 
 This next question will bring you right to the heart of the matter. In most truly great technical talks, there's something that is what you might think of as the bright and shiny thing. There's probably something cool which made you want to talk about this topic, something that you know the audience doesn't yet know. It might be a demo, or it might be a feature, or some very useful thing that you can show them how to do. What's your big idea, or cool thing that you know you want to put in the talk? Write that down, and come on back.
+
+### What is the value in this talk?
+
+Our last question in this workshop is pretty straightforward, so I'll keep this simple. How would you describe the benefit to the audience in hearing about this topic? What's valuable to them in hearing you speak about this? I want you to articulate this as clearly as you can. If you're struggling to figure out what might be useful or compelling to the audience in your talk, Houston, we have a problem. I like to call this the value proposition for your talk.
+
+Got to have one. Otherwise your talk is what I like to call, what I did for my summer vacation. And the problem with that kind of talk is no matter how cool your summer vacation was, the audience probably doesn't care. What they care about is how what you did for your summer vacation can change their life. OK, you get the idea. Why should the audience come to your talk? Write it down, and then come on back, and we'll try to put all of this brainstorming to good use.
