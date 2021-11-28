@@ -60,3 +60,11 @@ Now that you've done some thinking about *who you are and where you're coming fr
 In these next few segments, I'll suggest some ways of thinking about your topic that often lead to interesting ideas about the contents or main substance of the talk.
 
 Once again, make sure you have a way to write down or capture anything that comes to mind as we work through the next four questions.
+
+### What are the fundamentals?
+
+Often, when you're building a talk around a feature or product, or really any aspect of your technical work, you'll need to make some basic assumptions about the content. For example, if you're doing a talk about charts, you might assume that the people watching will have at least a cursory understanding of why it might be helpful to analyze and visualize data. Or if you were doing a talk about indexing, you might assume that the people in the room understand that performance is one of the most important attributes of any application.
+
+In other words, with any topic, you're going to find that there are things you assume the audience understands. So take a minute to just think about what assumptions might be inherent in the topic you've chosen. This is often useful in figuring out where you should begin the talk. One way to think about that might be, what are the sacred cows of this topic-- things that everyone believes, or takes for granted?
+
+And an even more practical way to think about this might be whether there are any key terms, ideas, or themes that you'll need the audience to know before coming to the talk. For example, you might have a talk about security, and you'd imagine that folks would have a general understanding of the meaning of the terms authentication, authorization, auditing, and encryption. So what assumptions will you make about the topic, and what do they need to know coming into the talk? Take a few minutes to write those down.
