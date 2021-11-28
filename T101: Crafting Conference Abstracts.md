@@ -96,3 +96,9 @@ Now that you've done some great work thinking about your talk, let's bang out a 
 * And tell us why it matters.
 * Tell us who is telling us.
 * And finally, tease the good stuff, the secret, the bright and shiny thing, or what is valuable in the talk.
+
+### Crafting Conference Abstracts Conclusion
+
+This concludes our *abstract workshop*. But of course, your work is now just beginning. A great next step might be *to show the abstract to two or three colleagues and ask them to tell you if there are any questions that immediately spring to mind about the topic*. Pay attention to those questions they ask. Those are likely the same questions the *MongoDB audience will have about the talk*.
+
+Take those questions and any feedback and refine what you have. This is what I like to call *Iterative Abstract Development*. Good luck, and I look forward to seeing some great abstracts and great talks in the next few months. In the next workshop, I'll be exploring content more deeply. And we'll talk in depth about what makes a truly outstanding technical talk.
