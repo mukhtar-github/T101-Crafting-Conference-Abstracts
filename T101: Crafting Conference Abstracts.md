@@ -52,3 +52,11 @@ OK, so we've done some work on you, and on your topic and your point of view. Th
 The obvious point here is that the clearer you are about this, and more specifically you can point to that in your abstract, the more likely the folks promoting and organizing the conference will be able to get the right people in the room to see you on the day. You might have an incredibly awesome talk about *schema design for developers*, but if you give it in a room full of, say, *data analysts*, it's probably not going to be so useful.
 
 So give it some thought. Who is your *audience ideally*? How do they think about themselves? And one thing you may want to think about is *whether this audience might typically tend to agree or disagree with that point of view you identified earlier*. So take a few minutes to define *who is the ideal audience for your talk*, and then come on back.
+
+### A Bit of Early Content Thinking
+
+Now that you've done some thinking about *who you are and where you're coming from*, and also thought about *your point of view about the topic, and who you hope your audience might be*, let's do some more work on the *topic of the talk itself*.
+
+In these next few segments, I'll suggest some ways of thinking about your topic that often lead to interesting ideas about the contents or main substance of the talk.
+
+Once again, make sure you have a way to write down or capture anything that comes to mind as we work through the next four questions.
