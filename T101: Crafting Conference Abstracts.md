@@ -43,4 +43,12 @@ In other words, if I say, OK, folks, this is a talk about *transactions*, then a
 
 So this is so important. I really can't stress this enough. Years of feedback from audiences has confirmed this for us. *MongoDB audiences* love deeply technical talks. But the ones that are rated the highest always have *a clearly expressed point of view about the topic set*. So now is the time *to start to uncover that point of view*. You probably have *biases, preferences, ideologies, recommendations, and/or philosophies that relate to the topic*, so what are those?
 
-You might think of this as the *so what of the talk*. You can have *a deep, technical, memorable, well-crafted presentation, but if you don't have any point of view, if it isn't opinionated* -- we've seen over and over again -- the talk will lack impact for the audience. So take some time *to think about your point of view on the topic*. Can you express that simply and powerfully? Take a few minutes with this one. It's often *the difference between a good talk and an exceptional one*.
+You might think of this as the **so what of the talk**. You can have *a deep, technical, memorable, well-crafted presentation, but if you don't have any point of view, if it isn't opinionated* -- we've seen over and over again -- the talk will lack impact for the audience. So take some time *to think about your point of view on the topic*. Can you express that simply and powerfully? Take a few minutes with this one. It's often *the difference between a good talk and an exceptional one*.
+
+### Who else might be curious?
+
+OK, so we've done some work on you, and on your topic and your point of view. This next question should be easy, but sometimes we forget to ask it-- big mistake. Given the topic and your given point of view about the topic, ask yourself, who is the ideal audience for the talk? And the flip side is sometimes interesting, too-- who is this talk not for? Both are useful.
+
+The obvious point here is that the clearer you are about this, and more specifically you can point to that in your abstract, the more likely the folks promoting and organizing the conference will be able to get the right people in the room to see you on the day. You might have an incredibly awesome talk about schema design for developers, but if you give it in a room full of, say, data analysts, it's probably not going to be so useful.
+
+So give it some thought. Who is your audience ideally? How do they think about themselves? And one thing you may want to think about is whether this audience might typically tend to agree or disagree with that point of view you identified earlier. So take a few minutes to define who is the ideal audience for your talk, and then come on back.
