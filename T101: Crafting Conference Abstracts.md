@@ -89,4 +89,10 @@ Got to have one. Otherwise your talk is what I like to call, *what I did for my 
 
 ### Abstract Workshop Exercise
 
-Now that you've done some great work thinking about your talk, let's bang out a draft of an abstract, and you can go back and take ideas from everything we've done so far. This is going to be a four or five sentence paragraph. We can make it amazing later, but for now, tell us what the talk is about. Tell us who will most benefit from the talk and tell us why it matters. Tell us who is telling us, and finally, tease the good stuff, the secret, the bright and shiny thing, or what is valuable in the talk.
+Now that you've done some great work thinking about your talk, let's bang out a draft of an abstract, and you can go back and take ideas from everything we've done so far. This is going to be a four or five sentence paragraph. We can make it amazing later, but for now;
+
+* Tell us what the talk is about.
+* Tell us who will most benefit from the talk.
+* And tell us why it matters.
+* Tell us who is telling us.
+* And finally, tease the good stuff, the secret, the bright and shiny thing, or what is valuable in the talk.
