@@ -86,3 +86,7 @@ This next question will bring you right to the heart of the matter. In most trul
 Our last question in this workshop is pretty straightforward, so I'll keep this simple. *How would you describe the benefit to the audience in hearing about this topic*? What's *valuable to them in hearing you speak about this*? I want you to articulate this as clearly as you can. If you're struggling to figure out what might be useful or compelling to the audience in your talk, Houston, we have a problem. I like to call this the *value proposition for your talk*.
 
 Got to have one. Otherwise your talk is what I like to call, *what I did for my summer vacation*. And the problem with that kind of talk is no matter how cool your summer vacation was, *the audience probably doesn't care*. What they care about is *how what you did for your summer vacation can change their life*. OK, you get the idea. *Why should the audience come to your talk*? Write it down, and then come on back, and we'll try to put all of this brainstorming to good use.
+
+### Abstract Workshop Exercise
+
+Now that you've done some great work thinking about your talk, let's bang out a draft of an abstract, and you can go back and take ideas from everything we've done so far. This is going to be a four or five sentence paragraph. We can make it amazing later, but for now, tell us what the talk is about. Tell us who will most benefit from the talk and tell us why it matters. Tell us who is telling us, and finally, tease the good stuff, the secret, the bright and shiny thing, or what is valuable in the talk.
