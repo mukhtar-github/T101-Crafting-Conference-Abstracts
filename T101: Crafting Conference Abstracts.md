@@ -159,43 +159,15 @@ So before I get into this next bit about how we create *memory indexes* in the m
 
 So what would happen is my uncles would call from California after they saw him on the TV, and they'd say, John, John, we saw you on The News Hour! And he'd say, well, how'd I do? And they would always say, well, you look great. And then he would ask them, what did I say? And unfortunately, they could never tell him. Well, the stuff my dad was talking about was pretty technical, but it's not surprising to me that they could never remember, because unfortunately, I don't think I ever shared this bit about *memory indexing* with my dad.
 
-So there are some people in the world who have this incredibly weird brain that remembers literally everything.
+So there are some people in the world who have this incredibly weird brain that remembers literally everything. They're desperately unhappy, because we actually don't want to live that way. But scientists have studied these people, and they're able to recall literally everything that they've ever experienced. So if you ask them what was the weather like on Tuesday 1994, they probably can tell you. Well, that's unfortunately not the way your audience's brain will probably be working.
 
-They're desperately unhappy, because we actually don't want to live that way.
+There's very, very few of those people in the world. And what it means is we have to understand how people create recall in order to understand how we can make a talk that stays with them for a while. *So what do we know about the way humans create memory indexes*? Well, there's an interesting way that we can study this, and scientists have a cool little technique that will demonstrate a little bit the principles behind us.
 
-But scientists have studied these people, and they're able to recall literally everything that they've ever experienced.
+So if you imagine just a list of regular household items, and I'm going to give you this list to study, and then you're going to be quizzed on it a few minutes later. Now, say I put on that list chairs, rugs, desk, lamp, giant ferocious angry pink mastodon, potted plants, lamp, rugs, spoons, napkins, lamps, ands I don't know, laundry basket. Now, if I gave you that list, and you took it away to study it for a few minutes, maybe if you were really, really good, you can remember everything on it.
 
-So if you ask them what was the weather like on Tuesday 1994, they probably can tell you.
+But probably not. So the way we understand *memory indexing* is we can look across all people and say, well, if we give them that test, people will tend to remember certain things. So if we understand the things that people tend to remember, you're going to start to understand how human *memory indexing* works.
 
-Well, that's unfortunately not the way your audience's brain will probably be working.
-
-There's very, very few of those people in the world.
-
-And what it means is we have to understand how people create recall in order to understand how we can make a talk that stays with them for a while.
-
-So what do we know about the way humans create memory indexes?
-
-Well, there's an interesting way that we can study this, and scientists have a cool little technique that will demonstrate a little bit the principles behind us.
-
-So if you imagine just a list of regular household items, and I'm going to give you this list to study, and then you're going to be quizzed on it a few minutes later.
-
-Now, say I put on that list chairs, rugs, desk, lamp, giant ferocious angry pink mastodon, potted plants, lamp, rugs, spoons, napkins, lamps, ands I don't know, laundry basket.
-
-Now, if I gave you that list, and you took it away to study it for a few minutes, maybe if you were really, really good, you can remember everything on it.
-
-But probably not.
-
-So the way we understand memory indexing is we can look across all people and say, well, if we give them that test, people will tend to remember certain things.
-
-So if we understand the things that people tend to remember, you're going to start to understand how human memory indexing works.
-
-So there are really five different ways that we create a human memory index.
-
-The first thing that you should know is if you give people that challenge to take a list and then spit it back out a few minutes later without a lot of memorization, what they will tend to write down is the first thing that they heard or the last thing that they heard.
-
-Now, these memory index principles are called primacy and recency.
-
-We tend to remember the first thing and the last thing.
+So there are really five different ways that we create a *human memory index*. The first thing that you should know is if you give people that challenge to take a list and then spit it back out a few minutes later without a lot of memorization, what they will tend to write down is the first thing that they heard or the last thing that they heard. Now, these *memory index principles are called primacy and recency*. We tend to remember the first thing and the last thing.
 
 Well, that is so interesting in terms of how we construct talks, because remember, let's go back to our meta structure, and it explains something about the ancient art of oration as well.
 
