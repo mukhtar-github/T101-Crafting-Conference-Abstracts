@@ -173,15 +173,7 @@ Well, that is so interesting in terms of how we construct talks, because remembe
 
 And if we've just done that, and there's some key insight there, they're more likely to remember it. Well, that's fascinating. *So we can also use that within the structure of the body of the talk as we create our buckets*. If you have a technical explanation that you're trying to give, *you may want to give them stuff at the beginning and the end of the bucket if you really want them to remember it*.
 
-So what else might you have written down from that list?
-
-Well I don't know if you noticed, and maybe it just went in one ear and out the other, but in the middle of that list of household items, there was a giant, ferocious, pink mastodon.
-
-Well, that's kind of weird, and it's totally unlike all the other things on the list.
-
-Well, guess what.
-
-One of the ways that memory indexes get created in the human mind is we tend to index on anything that is outstanding or completely unlike everything else.
+So what else might you have written down from that list? Well I don't know if you noticed, and maybe it just went in one ear and out the other, but in the middle of that list of household items, there was a *giant, ferocious, pink mastodon*. Well, that's kind of weird, and it's totally unlike all the other things on the list. Well, guess what. One of the ways that *memory indexes* get created in the human mind is we tend to index on anything that is outstanding or completely unlike everything else.
 
 Well, that's interesting, because you know when you have slide, slide, slide, slide, slide, slide, slide, and then you stop everything and you're like, now I'm going to show you a demo.
 
