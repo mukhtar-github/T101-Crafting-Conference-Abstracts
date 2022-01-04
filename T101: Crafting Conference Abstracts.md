@@ -131,37 +131,11 @@ And the way we can measure this is pretty simple. They have this really great ga
 
 So what this reveals is, *we can't actually keep many digits in our mind at one time*. By the time it gets *to three or four, it becomes very fatiguing*. And then beyond that -- five, six, seven-- it's almost impossible really no matter how smart you are, which is terrifying. *We can only remember three or four things in any given moment*. Well, *what, does this teach us about speaking*? Well, I want you to imagine for a second *how we remember a phone number*. So as you may know, we can only *keep track of a certain number of digits at a time*.
 
-So if I give you a string of 10 digits, it's going to be very hard for you to remember that until you do what?
+*So if I give you a string of 10 digits, it's going to be very hard for you to remember that until you do what?* Well, it's kind of interesting. You put parentheses around the first three letters and then the first three numbers. And then there's another three numbers, and then a dash, and then four numbers. And what's so remarkable about this is even with this simple chunking idea, we're able to remember phone numbers. Now, of course, we don't have to remember phone numbers anymore, because MongoDB remembers all our numbers for us.
 
-Well, it's kind of interesting.
+But when we're talking about the *limited active memory in the mind of your audience, what it means is, in real time your audience can only take in so much information*. So people who compete in these big memory Olympics at Madison Square Garden, they come and they memorize hundreds of strings of numbers. They often use mnemonics whereby they chunk these big numbers into smaller numbers.
 
-You put parentheses around the first three letters and then the first three numbers.
-
-And then there's another three numbers, and then a dash, and then four numbers.
-
-And what's so remarkable about this is even with this simple chunking idea, we're able to remember phone numbers.
-
-Now, of course, we don't have to remember phone numbers anymore, because MongoDB remembers all our numbers for us.
-
-But when we're talking about the limited active memory in the mind of your audience, what it means is, in real time your audience can only take in so much information.
-
-So people who compete in these big memory Olympics at Madison Square Garden, they come and they memorize hundreds of strings of numbers.
-
-They often use mnemonics whereby they chunk these big numbers into smaller numbers.
-
-Well, speaking is actually just like that.
-
-What you need to do for your audience is create some conceptual chunking.
-
-It's pretty fascinating.
-
-So here's what's interesting.
-
-If you think about what we think of as the iconic advice that a public speaking person will give you, public speaking person is probably 9 times out of 10 going to tell you, well, you have to have an introduction, a body, and a conclusion in your talk.
-
-And actually, I think that's true.
-
-But why is it true?
+Well, speaking is actually just like that. What you need to do for your audience is create some conceptual chunking. It's pretty fascinating. So here's what's interesting. If you think about what we think of as the iconic advice that a public speaking person will give you, public speaking person is probably 9 times out of 10 going to tell you, well, you have to have an introduction, a body, and a conclusion in your talk. And actually, I think that's true. But why is it true?
 
 Well, just thinking about limited active memory, one of the reasons that it's true is because we can actually hold that simple three-part structure in our mind at one time.
 
