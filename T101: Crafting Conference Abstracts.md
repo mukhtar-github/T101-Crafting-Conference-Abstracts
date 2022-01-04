@@ -139,33 +139,13 @@ Well, speaking is actually just like that. What you need to do for your audience
 
 Well, just thinking about *limited active memory*, one of the reasons that it's true is because we can actually hold that *simple three-part structure in our mind at one time*. And what that means is, your audience has to do less background processing as you give them information. And that's really the key to making sure that your audience can pay attention to you and not really fall off the bus as you get into the technical side of the talk.
 
-As long as they can understand at a high level the way your talk is organized, they can keep track of that information in real time without worrying what the relationships are between what came before and what came after.
+As long as they can understand at a high level the way your talk is organized, they can keep track of that information in real time without worrying what the relationships are between what came before and what came after. Now, it doesn't necessarily mean they're going to remember everything you said. But what it will mean is that they will follow along *present in the moment* as you work your way through the talk.
 
-Now, it doesn't necessarily mean they're going to remember everything you said.
+So this idea of *intro, body, and conclusion* actually comes out of the limits of the human *limited active memory*. So if you understand that, it's a very interesting way of understanding this iconic advice that public speaking people give you about having an *introduction, a body, and a conclusion* -- so *beginning, middle, and end*. And then in the middle of the talk, you can also use the same logic.
 
-But what it will mean is that they will follow along present in the moment as you work your way through the talk.
+In the body of the talk, what we'll often see is, if you can keep a simple structure that only has *three or four parts*, then you can actually let your audience forget about the structure of the talk and stay with you in the moment, because they can keep it all in their heads at once. That's a very powerful way of thinking about content. So the simple takeaway is this. As we're structuring our talk, we need two different kinds of structure.
 
-So this idea of intro, body, and conclusion actually comes out of the limits of the human *limited active memory*.
-
-So if you understand that, it's a very interesting way of understanding this iconic advice that public speaking people give you about having an introduction, a body, and a conclusion-- so beginning, middle, and end.
-
-And then in the middle of the talk, you can also use the same logic.
-
-In the body of the talk, what we'll often see is, if you can keep a simple structure that only has three or four parts, then you can actually let your audience forget about the structure of the talk and stay with you in the moment, because they can keep it all in their heads at once.
-
-That's a very powerful way of thinking about content.
-
-So the simple takeaway is this.
-
-As we're structuring our talk, we need two different kinds of structure.
-
-First of all, we need the metastructure-- an intro, a body, and a conclusion.
-
-And that's pretty standard thinking.
-
-And then within the body of the talk, I think we also need to think about having some simple structural logic such that in a 40 minute talk there's probably going to be three or four buckets.
-
-Or we might think of them as collections, three or four key ideas that you're speaking about or concepts that you're speaking about.
+First of all, we need the *metastructure -- an intro, a body, and a conclusion*. And that's pretty standard thinking. And then within the body of the talk, I think we also need to think about having some simple structural logic such that *in a 40 minute talk there's probably going to be three or four buckets*. Or we might think of them as collections, three or four key ideas that you're speaking about or concepts that you're speaking about.
 
 Believe it or not, if you just do that much structurally, your audience is able to follow along more attentively to your talk.
 
