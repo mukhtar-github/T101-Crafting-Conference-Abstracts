@@ -125,65 +125,11 @@ And then I'll talk about *the specific ways that humans index or create recall, 
 
 ### Limited Active Memory
 
-So the first thing we need to think about is called limited active memory.
+So the first thing we need to think about is called *limited active memory*. What we're trying to get a sense of here is *how much can fit in memory in the human brain*. And the answer is, *not a whole lot*. So there's various ways of measuring this. But just to give you an idea, imagine you're walking down the street. And you start to remark on the things that you see. Well, first you see a tree. Then you see a fence. Then you see a mailbox. Then you see a signpost. Then you see a dog. By the time that you're seeing that dog, you've actually forgotten the first thing that you saw.
 
-What we're trying to get a sense of here is how much can fit in memory in the human brain.
+And the way we can measure this is pretty simple. They have this really great game. You can Google it. It's called *N1 Back*. And what it does is, the computer will start firing numbers at you. And it gives you one number, and then a second number, and then a third number. And by the third number, what you try to do is give the computer back the number that it first told you. And it starts to measure how many numbers you can fit in your mind at one time. It's called N1 Back. It's a really cool game. You should check it out.
 
-And the answer is, not a whole lot.
-
-So there's various ways of measuring this.
-
-But just to give you an idea, imagine you're walking down the street.
-
-And you start to remark on the things that you see.
-
-Well, first you see a tree.
-
-Then you see a fence.
-
-Then you see a mailbox.
-
-Then you see a signpost.
-
-Then you see a dog.
-
-By the time that you're seeing that dog, you've actually forgotten the first thing that you saw.
-
-And the way we can measure this is pretty simple.
-
-They have this really great game.
-
-You can Google it.
-
-It's called N1 Back.
-
-And what it does is, the computer will start firing numbers at you.
-
-And it gives you one number, and then a second number, and then a third number.
-
-And by the third number, what you try to do is give the computer back the number that it first told you.
-
-And it starts to measure how many numbers you can fit in your mind at one time.
-
-It's called N1 Back.
-
-It's a really cool game.
-
-You should check it out.
-
-So what this reveals is, we can't actually keep many digits in our mind at one time.
-
-By the time it gets to three or four, it becomes very fatiguing.
-
-And then beyond that-- five, six, seven-- it's almost impossible really no matter how smart you are, which is terrifying.
-
-We can only remember three or four things in any given moment.
-
-Well, what, does this teach us about speaking?
-
-Well, I want you to imagine for a second how we remember a phone number.
-
-So as you may know, we can only keep track of a certain number of digits at a time.
+So what this reveals is, *we can't actually keep many digits in our mind at one time*. By the time it gets *to three or four, it becomes very fatiguing*. And then beyond that -- five, six, seven-- it's almost impossible really no matter how smart you are, which is terrifying. *We can only remember three or four things in any given moment*. Well, *what, does this teach us about speaking*? Well, I want you to imagine for a second *how we remember a phone number*. So as you may know, we can only *keep track of a certain number of digits at a time*.
 
 So if I give you a string of 10 digits, it's going to be very hard for you to remember that until you do what?
 
