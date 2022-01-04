@@ -147,12 +147,4 @@ In the body of the talk, what we'll often see is, if you can keep a simple struc
 
 First of all, we need the *metastructure -- an intro, a body, and a conclusion*. And that's pretty standard thinking. And then within the body of the talk, I think we also need to think about having some simple structural logic such that *in a 40 minute talk there's probably going to be three or four buckets*. Or we might think of them as collections, three or four key ideas that you're speaking about or concepts that you're speaking about.
 
-Believe it or not, if you just do that much structurally, your audience is able to follow along more attentively to your talk.
-
-And there's less of a chance that they're going to lose their attention and get fatigued.
-
-So that's very interesting.
-
-Limited active memory teaches us a lot about how we need to structure and organize our talks.
-
-Now the next thing is really interesting.
+Believe it or not, if you just do that much structurally, your audience is able to follow along more attentively to your talk. And there's less of a chance that they're going to lose their attention and get fatigued. So that's very interesting. *Limited active memory teaches us a lot about how we need to structure and organize our talks*. Now the next thing is really interesting.
