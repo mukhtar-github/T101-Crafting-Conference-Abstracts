@@ -169,21 +169,9 @@ But probably not. So the way we understand *memory indexing* is we can look acro
 
 So there are really five different ways that we create a *human memory index*. The first thing that you should know is if you give people that challenge to take a list and then spit it back out a few minutes later without a lot of memorization, what they will tend to write down is the first thing that they heard or the last thing that they heard. Now, these *memory index principles are called primacy and recency*. We tend to remember the first thing and the last thing.
 
-Well, that is so interesting in terms of how we construct talks, because remember, let's go back to our meta structure, and it explains something about the ancient art of oration as well.
+Well, that is so interesting in terms of how we construct talks, because remember, let's go back to our meta structure, and it explains something about the ancient art of oration as well. We remember the first thing and the last thing. So this idea of *introduction and conclusion works*, because it's *a way of us getting our key message in the audience's brain*. We're going to say it early, and then we're going to say it at the end.
 
-We remember the first thing and the last thing.
-
-So this idea of introduction and conclusion works, because it's a way of us getting our key message in the audience's brain.
-
-We're going to say it early, and then we're going to say it at the end.
-
-And if we've just done that, and there's some key insight there, they're more likely to remember it.
-
-Well, that's fascinating.
-
-So we can also use that within the structure of the body of the talk as we create our buckets.
-
-If you have a technical explanation that you're trying to give, you may want to give them stuff at the beginning and the end of the bucket if you really want them to remember it.
+And if we've just done that, and there's some key insight there, they're more likely to remember it. Well, that's fascinating. *So we can also use that within the structure of the body of the talk as we create our buckets*. If you have a technical explanation that you're trying to give, *you may want to give them stuff at the beginning and the end of the bucket if you really want them to remember it*.
 
 So what else might you have written down from that list?
 
