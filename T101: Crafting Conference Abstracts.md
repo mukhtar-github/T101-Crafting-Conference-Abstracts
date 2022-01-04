@@ -152,3 +152,199 @@ Believe it or not, if you just do that much structurally, your audience is able 
 ### Using Recall in Your Talk
 
 We'll talk more about *limited active memory* in a later workshop, when we're working on designing slides. But for now, just remember that if you understand people's brains, you start to understand in principle why some talks are great and why some are doomed to fail. So with this powerful concept, you have them listening. Now, what can you do to make sure that they both listen and can recall what you said later? To do that, we need to understand how the human brain accomplishes recall. We can think of this as *memory indexing*.
+
+### Creating Memory Indexes
+
+So before I get into this next bit about how we create *memory indexes* in the mind, I just want to tell you a little story. So back in the 1980s, my dad was a nuclear weapons expert. And he would often go on TV to talk about issues related to deterrence and foreign policy and the Soviet Union. The show he most often went on was called The News Hour, and they would have him come on and talk about these issues, which was way cool.
+
+So what would happen is my uncles would call from California after they saw him on the TV, and they'd say, John, John, we saw you on The News Hour! And he'd say, well, how'd I do? And they would always say, well, you look great. And then he would ask them, what did I say? And unfortunately, they could never tell him. Well, the stuff my dad was talking about was pretty technical, but it's not surprising to me that they could never remember, because unfortunately, I don't think I ever shared this bit about *memory indexing* with my dad.
+
+So there are some people in the world who have this incredibly weird brain that remembers literally everything.
+
+They're desperately unhappy, because we actually don't want to live that way.
+
+But scientists have studied these people, and they're able to recall literally everything that they've ever experienced.
+
+So if you ask them what was the weather like on Tuesday 1994, they probably can tell you.
+
+Well, that's unfortunately not the way your audience's brain will probably be working.
+
+There's very, very few of those people in the world.
+
+And what it means is we have to understand how people create recall in order to understand how we can make a talk that stays with them for a while.
+
+So what do we know about the way humans create memory indexes?
+
+Well, there's an interesting way that we can study this, and scientists have a cool little technique that will demonstrate a little bit the principles behind us.
+
+So if you imagine just a list of regular household items, and I'm going to give you this list to study, and then you're going to be quizzed on it a few minutes later.
+
+Now, say I put on that list chairs, rugs, desk, lamp, giant ferocious angry pink mastodon, potted plants, lamp, rugs, spoons, napkins, lamps, ands I don't know, laundry basket.
+
+Now, if I gave you that list, and you took it away to study it for a few minutes, maybe if you were really, really good, you can remember everything on it.
+
+But probably not.
+
+So the way we understand memory indexing is we can look across all people and say, well, if we give them that test, people will tend to remember certain things.
+
+So if we understand the things that people tend to remember, you're going to start to understand how human memory indexing works.
+
+So there are really five different ways that we create a human memory index.
+
+The first thing that you should know is if you give people that challenge to take a list and then spit it back out a few minutes later without a lot of memorization, what they will tend to write down is the first thing that they heard or the last thing that they heard.
+
+Now, these memory index principles are called primacy and recency.
+
+We tend to remember the first thing and the last thing.
+
+Well, that is so interesting in terms of how we construct talks, because remember, let's go back to our meta structure, and it explains something about the ancient art of oration as well.
+
+We remember the first thing and the last thing.
+
+So this idea of introduction and conclusion works, because it's a way of us getting our key message in the audience's brain.
+
+We're going to say it early, and then we're going to say it at the end.
+
+And if we've just done that, and there's some key insight there, they're more likely to remember it.
+
+Well, that's fascinating.
+
+So we can also use that within the structure of the body of the talk as we create our buckets.
+
+If you have a technical explanation that you're trying to give, you may want to give them stuff at the beginning and the end of the bucket if you really want them to remember it.
+
+So what else might you have written down from that list?
+
+Well I don't know if you noticed, and maybe it just went in one ear and out the other, but in the middle of that list of household items, there was a giant, ferocious, pink mastodon.
+
+Well, that's kind of weird, and it's totally unlike all the other things on the list.
+
+Well, guess what.
+
+One of the ways that memory indexes get created in the human mind is we tend to index on anything that is outstanding or completely unlike everything else.
+
+Well, that's interesting, because you know when you have slide, slide, slide, slide, slide, slide, slide, and then you stop everything and you're like, now I'm going to show you a demo.
+
+Well, that demo is actually a way of creating outstandingness.
+
+It's one of the reasons why we like to have demos.
+
+It's because they're different.
+
+They stand apart from the quality of the other information in the talk.
+
+It's interesting too that sometimes what I will suggest to you is that you should create a specific theme or a kind of analogy inside your talk.
+
+What I'm trying to do there is have you talk about something that is totally unique inside the context of the conference.
+
+So if you have a great analogy-- one that comes to mind was Osia's classic talk about Sherlock Holmes.
+
+Well, I still remember that talk, because I remember the theme of the talk was Sherlock Holmes.
+
+Once I have that index in my mind of recall with outstandingness, I'm more likely to be able to remember the talk.
+
+That's very cool.
+
+What's another way you can create outstandingness inside a talk?
+
+Well, anything that sets the talk apart is really a way to do that.
+
+So for example, if you've ever seen a speaker wear a plaid suit, one of the things they're trying to do is make themselves more memorable inside the context of the talk.
+
+So we'll talk more when we talk about constructing buckets in a later workshop about how we can create outstandingness in a talk.
+
+But it's something that's very important to keep in mind, especially if you have deep technical material embedded right in the middle of the talk, and you're not really sure how you're going to make people remember it.
+
+Sometimes, what we want to do there is something outstanding.
+
+OK, so here we have our list.
+
+We remember the first things on the list, we remember the last things on the list, and we remember the outstanding stuff.
+
+Is that the only way that we can create a memory index?
+
+Of course not.
+
+There's other ways as well.
+
+So the next way is actually something you're probably pretty familiar with.
+
+You may not even know that people are doing it, but they do it, and it works.
+
+So if you've ever heard something like the three A's of security-- authorization, authentication, and auditing, this is a memory index principle.
+
+And that is linking.
+
+Any ideas that we can link together with a certain thematic actually helps us index in the mind for recall.
+
+So if you can create simple mnemonics-- the three A's of security or things to that effect-- it actually creates a powerful linking dynamic in the mind.
+
+Sometimes, things can be visually linked.
+
+If you have a bunch of slides with a giant yellow duck on them, we might remember those slides because all of those slides are somehow visually linked.
+
+And we'll talk more about that when we get to our slide workshop later in the month.
+
+But for right now, all we really need to understand is when we want someone to really connect three, four, five, six ideas, we often need to create some powerful way of linking them together if we want people to remember them.
+
+OK.
+
+so what do we have so far?
+
+We've got primacy and recency.
+
+We remember the first thing we hear and the last thing we hear.
+
+We remember outstanding things, like that ferocious pink mastodon.
+
+And we remember things that are linked, either through mnemonics or themes or some kind of visual trope.
+
+So what's the last principle?
+
+Well, the last principle is one that I've been using throughout this explanation, and it's probably pretty obvious.
+
+We remember things on the list that are repeated over and over again.
+
+So by going back through my list of memory principles, I've been reinforcing that the specific things I want you to take away from this section of my little talk.
+
+So primacy, recency, outstandingness, linking, and repetition all work to create indexes in the mind.
+
+I want you to go back and think just for a second about our meta-structure of the talk.
+
+This is another reason why this ancient wisdom about introduction, body, conclusion is really helpful.
+
+We tend to remember stuff that we hear more than three times.
+
+It's quite interesting.
+
+If you hear something once, you probably won't remember it.
+
+If you hear something twice.
+
+You probably won't remember it.
+
+It's not until around the third time that deep in your brain, you've decided to start to wave a little flag that says, hey, I think we need to index this, because it's coming back often, and it may be important.
+
+Now I know that deep down, a lot of us are relational thinkers.
+
+We believe in the third normal form and that everything should go into the database once and only once.
+
+But of course, we don't work in that way anymore-- not with MongoDB.
+
+We have a whole 'nother way of doing things, and repeating data is actually not a problem.
+
+So I'm going to encourage you to repeat yourself a little more often than you normally do in your talk, because it's actually true that when you repeat something often, people are more likely to remember it.
+
+Now, I know that can feel sometimes like you're talking down to your audience, and that's not really what this is.
+
+What this is is if you have a key insight, something that's super valuable that's going to completely change the way they work with their technology, you'd better repeat it several times or they just won't be able to remember it.
+
+So what are our memory indexing principles?
+
+Primacy, recency, outstandingness, linking, and finally, repetition.
+
+What's so extraordinary is just working with these concepts, you can actually make sure that your talk is vastly more memorable, so that two, three, four weeks later, maybe a year later, somebody might still remember specific things that happen inside your talk.
+
+Well, that would be great.
+
+That's moving a talk from being a good talk into an incredibly outstanding talk.
