@@ -148,3 +148,7 @@ In the body of the talk, what we'll often see is, if you can keep a simple struc
 First of all, we need the *metastructure -- an intro, a body, and a conclusion*. And that's pretty standard thinking. And then within the body of the talk, I think we also need to think about having some simple structural logic such that *in a 40 minute talk there's probably going to be three or four buckets*. Or we might think of them as collections, three or four key ideas that you're speaking about or concepts that you're speaking about.
 
 Believe it or not, if you just do that much structurally, your audience is able to follow along more attentively to your talk. And there's less of a chance that they're going to lose their attention and get fatigued. So that's very interesting. *Limited active memory teaches us a lot about how we need to structure and organize our talks*. Now the next thing is really interesting.
+
+### Using Recall in Your Talk
+
+We'll talk more about *limited active memory* in a later workshop, when we're working on designing slides. But for now, just remember that if you understand people's brains, you start to understand in principle why some talks are great and why some are doomed to fail. So with this powerful concept, you have them listening. Now, what can you do to make sure that they both listen and can recall what you said later? To do that, we need to understand how the human brain accomplishes recall. We can think of this as *memory indexing*.
