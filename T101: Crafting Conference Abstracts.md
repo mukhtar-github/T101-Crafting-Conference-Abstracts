@@ -191,27 +191,9 @@ Sometimes, things can be visually linked. If you have a bunch of slides with a g
 
 OK. so what do we have so far? We've got *primacy and recency*. We remember the first thing we hear and the last thing we hear. We remember outstanding things, like that ferocious pink mastodon. And we remember things that are linked, either through mnemonics or themes or some kind of visual trope. So what's the last principle? Well, the last principle is one that I've been using throughout this explanation, and it's probably pretty obvious.
 
-We remember things on the list that are repeated over and over again.
+We remember things on the list that are repeated over and over again. So by going back through my list of memory principles, I've been reinforcing that the specific things I want you to take away from this section of my little talk. So primacy, recency, outstandingness, linking, and repetition all work to create indexes in the mind. I want you to go back and think just for a second about our meta-structure of the talk.
 
-So by going back through my list of memory principles, I've been reinforcing that the specific things I want you to take away from this section of my little talk.
-
-So primacy, recency, outstandingness, linking, and repetition all work to create indexes in the mind.
-
-I want you to go back and think just for a second about our meta-structure of the talk.
-
-This is another reason why this ancient wisdom about introduction, body, conclusion is really helpful.
-
-We tend to remember stuff that we hear more than three times.
-
-It's quite interesting.
-
-If you hear something once, you probably won't remember it.
-
-If you hear something twice.
-
-You probably won't remember it.
-
-It's not until around the third time that deep in your brain, you've decided to start to wave a little flag that says, hey, I think we need to index this, because it's coming back often, and it may be important.
+This is another reason why this ancient wisdom about introduction, body, conclusion is really helpful. We tend to remember stuff that we hear more than three times. It's quite interesting. If you hear something once, you probably won't remember it. If you hear something twice. You probably won't remember it. It's not until around the third time that deep in your brain, you've decided to start to wave a little flag that says, hey, I think we need to index this, because it's coming back often, and it may be important.
 
 Now I know that deep down, a lot of us are relational thinkers.
 
