@@ -197,16 +197,6 @@ This is another reason why this ancient wisdom about introduction, body, conclus
 
 Now I know that deep down, a lot of us are relational thinkers. We believe in the third normal form and that everything should go into the database once and only once. But of course, we don't work in that way anymore -- not with MongoDB. We have a whole another way of doing things, and repeating data is actually not a problem. So I'm going to encourage you to repeat yourself a little more often than you normally do in your talk, because it's actually true that when you repeat something often, people are more likely to remember it.
 
-Now, I know that can feel sometimes like you're talking down to your audience, and that's not really what this is.
+Now, I know that can feel sometimes like you're talking down to your audience, and that's not really what this is. What this is is if you have a key insight, something that's super valuable that's going to completely change the way they work with their technology, you'd better repeat it several times or they just won't be able to remember it.
 
-What this is is if you have a key insight, something that's super valuable that's going to completely change the way they work with their technology, you'd better repeat it several times or they just won't be able to remember it.
-
-So what are our memory indexing principles?
-
-Primacy, recency, outstandingness, linking, and finally, repetition.
-
-What's so extraordinary is just working with these concepts, you can actually make sure that your talk is vastly more memorable, so that two, three, four weeks later, maybe a year later, somebody might still remember specific things that happen inside your talk.
-
-Well, that would be great.
-
-That's moving a talk from being a good talk into an incredibly outstanding talk.
+So what are our memory indexing principles? *Primacy, recency, outstandingness, linking, and finally, repetition*. What's so extraordinary is just working with these concepts, you can actually make sure that your talk is vastly more memorable, so that two, three, four weeks later, maybe a year later, somebody might still remember specific things that happen inside your talk. Well, that would be great. That's moving a talk from being a good talk into an incredibly outstanding talk.
