@@ -226,3 +226,9 @@ I don't know what you want to call it. *If you want to call it satisfaction or f
 When we show this audience code, that's a feeling of familiarity and collegiality. There are actually emotional resonances under why that kind of content works for this particular audience. *So if you can do something that's empowering or motivating or even funny or delightful inside your talk, guess what -- they're more likely to remember it*. This feeling of heightened emotional states can even be a little bit more tactical. If you want to create some kind of suspense or surprise, that can actually create some emotion in your audience.
 
 So even though what we're talking about is deeply technical talks, what we actually need to do in order for the talks to be truly, truly memorable is to create some kind of feeling inside the audience. So I want you to think a little bit about your topic and about your content, broadly defined. There's probably some way in which what you're talking about can be useful or exciting to this audience. And what we're going to try to do in the next couple of months is to dial up that feeling as high as it can go, because we know when you have an emotional component to something, you tend to recall it more vividly.
+
+### Final Thoughts
+
+This concludes our abstract workshop. But of course, your work is now just beginning. A great next step might be to show the abstract to two or three colleagues and ask them to tell you if there are any questions that immediately spring to mind about the topic. And pay attention to those questions they ask.
+
+Those are likely the same questions the MongoDB audience will have about the talk. Take those questions and any feedback, and refine what you have. This is what I like to call iterative abstract development. Good luck, and I look forward to seeing some great abstracts and great talks in the next few months.
