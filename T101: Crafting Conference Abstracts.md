@@ -181,25 +181,9 @@ It's interesting too that sometimes what I will suggest to you is that you shoul
 
 Once I have that index in my mind of recall with outstandingness, I'm more likely to be able to remember the talk. That's very cool. What's another way you can create outstandingness inside a talk? Well, anything that sets the talk apart is really a way to do that. So for example, if you've ever seen a speaker wear a plaid suit, one of the things they're trying to do is make themselves more memorable inside the context of the talk.
 
-So we'll talk more when we talk about constructing buckets in a later workshop about how we can create outstandingness in a talk.
+So we'll talk more when we talk about constructing buckets in a later workshop about how we can create outstandingness in a talk. But it's something that's very important to keep in mind, especially if you have deep technical material embedded right in the middle of the talk, and you're not really sure how you're going to make people remember it. Sometimes, what we want to do there is something outstanding.
 
-But it's something that's very important to keep in mind, especially if you have deep technical material embedded right in the middle of the talk, and you're not really sure how you're going to make people remember it.
-
-Sometimes, what we want to do there is something outstanding.
-
-OK, so here we have our list.
-
-We remember the first things on the list, we remember the last things on the list, and we remember the outstanding stuff.
-
-Is that the only way that we can create a memory index?
-
-Of course not.
-
-There's other ways as well.
-
-So the next way is actually something you're probably pretty familiar with.
-
-You may not even know that people are doing it, but they do it, and it works.
+OK, so here we have our list. We remember the first things on the list, we remember the last things on the list, and we remember the outstanding stuff. Is that the only way that we can create a memory index? Of course not. There's other ways as well. So the next way is actually something you're probably pretty familiar with. You may not even know that people are doing it, but they do it, and it works.
 
 So if you've ever heard something like the three A's of security-- authorization, authentication, and auditing, this is a memory index principle.
 
