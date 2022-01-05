@@ -185,37 +185,11 @@ So we'll talk more when we talk about constructing buckets in a later workshop a
 
 OK, so here we have our list. We remember the first things on the list, we remember the last things on the list, and we remember the outstanding stuff. Is that the only way that we can create a memory index? Of course not. There's other ways as well. So the next way is actually something you're probably pretty familiar with. You may not even know that people are doing it, but they do it, and it works.
 
-So if you've ever heard something like the three A's of security-- authorization, authentication, and auditing, this is a memory index principle.
+So if you've ever heard something like the three A's of security -- authorization, authentication, and auditing, this is a memory index principle. And that is linking. Any ideas that we can link together with a certain thematic actually helps us index in the mind for recall. So if you can create simple mnemonics -- the three A's of security or things to that effect -- it actually creates a powerful linking dynamic in the mind.
 
-And that is linking.
+Sometimes, things can be visually linked. If you have a bunch of slides with a giant yellow duck on them, we might remember those slides because all of those slides are somehow visually linked. And we'll talk more about that when we get to our slide workshop later in the month. But for right now, all we really need to understand is when we want someone to really connect three, four, five, six ideas, we often need to create some powerful way of linking them together if we want people to remember them.
 
-Any ideas that we can link together with a certain thematic actually helps us index in the mind for recall.
-
-So if you can create simple mnemonics-- the three A's of security or things to that effect-- it actually creates a powerful linking dynamic in the mind.
-
-Sometimes, things can be visually linked.
-
-If you have a bunch of slides with a giant yellow duck on them, we might remember those slides because all of those slides are somehow visually linked.
-
-And we'll talk more about that when we get to our slide workshop later in the month.
-
-But for right now, all we really need to understand is when we want someone to really connect three, four, five, six ideas, we often need to create some powerful way of linking them together if we want people to remember them.
-
-OK.
-
-so what do we have so far?
-
-We've got primacy and recency.
-
-We remember the first thing we hear and the last thing we hear.
-
-We remember outstanding things, like that ferocious pink mastodon.
-
-And we remember things that are linked, either through mnemonics or themes or some kind of visual trope.
-
-So what's the last principle?
-
-Well, the last principle is one that I've been using throughout this explanation, and it's probably pretty obvious.
+OK. so what do we have so far? We've got *primacy and recency*. We remember the first thing we hear and the last thing we hear. We remember outstanding things, like that ferocious pink mastodon. And we remember things that are linked, either through mnemonics or themes or some kind of visual trope. So what's the last principle? Well, the last principle is one that I've been using throughout this explanation, and it's probably pretty obvious.
 
 We remember things on the list that are repeated over and over again.
 
