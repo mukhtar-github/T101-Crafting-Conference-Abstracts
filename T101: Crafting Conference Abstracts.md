@@ -217,13 +217,7 @@ Well, if you think about the day you got married or the day you had your kid or 
 
 Well, that's absolutely fascinating. What does this have to do with technical speaking? Well honestly, the amazing, special, secret sauce of great technical speaking is to *activate the material emotionally*. I want you to think about this the way we think about *write concern*. What kind of guarantee do you want in terms of the audience being able to recall at a granular level what you said?
 
-To absolutely guarantee that the audience remembers what you're sharing, can you find a way to tap into heightened emotional states?
-
-You can.
-
-I know it seems really perverse to talk about in the context of technical speaking, and it's super counterintuitive, but trust me, after eight years of watching talks, I think this is really true.
-
-Even in a technical talk, if you can leverage some kind of emotion, you have a better chance of getting them to remember it.
+To absolutely guarantee that the audience remembers what you're sharing, can you find a way *to tap into heightened emotional states*? You can. I know it seems really perverse to talk about in the context of technical speaking, and it's super counterintuitive, but trust me, after eight years of watching talks, I think this is really true. *Even in a technical talk, if you can leverage some kind of emotion, you have a better chance of getting them to remember it*.
 
 So one of the things that Elliot talks about sometimes in his keynotes year after year is something I absolutely love.
 
