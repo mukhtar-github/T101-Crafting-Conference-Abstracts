@@ -177,23 +177,9 @@ So what else might you have written down from that list? Well I don't know if yo
 
 Well, that's interesting, because you know when you have slide, slide, slide, slide, slide, slide, slide, and then you stop everything and you're like, now I'm going to show you a demo. *Well, that demo is actually a way of creating outstandingness*. It's one of the reasons why we like to have demos. It's because they're different. They stand apart from the quality of the other information in the talk.
 
-It's interesting too that sometimes what I will suggest to you is that you should create a specific theme or a kind of analogy inside your talk.
+It's interesting too that sometimes what I will suggest to you is that you should create *a specific theme or a kind of analogy inside your talk*. What I'm trying to do there is have you talk about something that is totally unique inside the context of the conference. So if you have a great analogy -- one that comes to mind was Osia's classic talk about Sherlock Holmes. Well, I still remember that talk, because I remember the theme of the talk was Sherlock Holmes.
 
-What I'm trying to do there is have you talk about something that is totally unique inside the context of the conference.
-
-So if you have a great analogy-- one that comes to mind was Osia's classic talk about Sherlock Holmes.
-
-Well, I still remember that talk, because I remember the theme of the talk was Sherlock Holmes.
-
-Once I have that index in my mind of recall with outstandingness, I'm more likely to be able to remember the talk.
-
-That's very cool.
-
-What's another way you can create outstandingness inside a talk?
-
-Well, anything that sets the talk apart is really a way to do that.
-
-So for example, if you've ever seen a speaker wear a plaid suit, one of the things they're trying to do is make themselves more memorable inside the context of the talk.
+Once I have that index in my mind of recall with outstandingness, I'm more likely to be able to remember the talk. That's very cool. What's another way you can create outstandingness inside a talk? Well, anything that sets the talk apart is really a way to do that. So for example, if you've ever seen a speaker wear a plaid suit, one of the things they're trying to do is make themselves more memorable inside the context of the talk.
 
 So we'll talk more when we talk about constructing buckets in a later workshop about how we can create outstandingness in a talk.
 
