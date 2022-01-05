@@ -200,3 +200,11 @@ Now I know that deep down, a lot of us are relational thinkers. We believe in th
 Now, I know that can feel sometimes like you're talking down to your audience, and that's not really what this is. What this is is if you have a key insight, something that's super valuable that's going to completely change the way they work with their technology, you'd better repeat it several times or they just won't be able to remember it.
 
 So what are our memory indexing principles? *Primacy, recency, outstandingness, linking, and finally, repetition*. What's so extraordinary is just working with these concepts, you can actually make sure that your talk is vastly more memorable, so that two, three, four weeks later, maybe a year later, somebody might still remember specific things that happen inside your talk. Well, that would be great. That's moving a talk from being a good talk into an incredibly outstanding talk.
+
+### Special Secret Talk Sauce
+
+Now, we've talked about *limited active memory*, the capped collection, if you will, and how it guides us with regard to structure and *creating logical breaks or buckets*. And we've discussed some of the ways that your talk can be engineered to give the audience the best chance at recalling specific things about the talk, *leveraging those memory indexes*. These are very powerful ideas to keep in mind when you're crafting your content.
+
+Again, that doesn't give us a formula for what works in a technical talk, but it does give us some clear ideas about why some talks might fail. If they're too dense, structurally opaque, and don't capitalize on the memory indexing strategies of the audience, they'll be both hard to follow and hard to remember. And now there's one more thing we need to talk about. And it might be the most important thing of all.
+
+At the beginning of this session I mentioned that there was a third characteristic of the brain that we had to discuss. Let's call it *special secret amazing talk sauce*. Now, this is where things get a little weird, because *special secret amazing talk sauce* flies in the face of everything we think we know about technical speaking. To get a sense of what this is about, I want you to take a moment to recall some of the events or moments in your life that you remember most vividly.
