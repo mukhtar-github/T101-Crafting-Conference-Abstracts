@@ -213,23 +213,9 @@ At the beginning of this session I mentioned that there was a third characterist
 
 Now I don't know about you, but if you ask me to tell you what I had for lunch last Wednesday I almost certainly couldn't tell you. I don't even remember what the weather was like last Wednesday. I don't remember what I was doing last Wednesday. So that's a day that I don't recall very vividly. But there are days that I recall extremely vividly. And what days might those be?
 
-Well, if you think about the day you got married or the day you had your kid or the day your dog came to you for the first time, any one of these things, you would remember a lot more vividly than I remember last Wednesday.
+Well, if you think about the day you got married or the day you had your kid or the day your dog came to you for the first time, any one of these things, you would remember a lot more vividly than I remember last Wednesday. And why is that? Well, there's a very simple reason for it. *Because anytime we're in a heightened emotional state, our memories tend to become more granular and more vivid*.
 
-And why is that?
-
-Well, there's a very simple reason for it.
-
-Because anytime we're in a heightened emotional state, our memories tend to become more granular and more vivid.
-
-Well, that's absolutely fascinating.
-
-What does this have to do with technical speaking?
-
-Well honestly, the amazing, special, secret sauce of great technical speaking is to activate the material emotionally.
-
-I want you to think about this the way we think about write concern.
-
-What kind of guarantee do you want in terms of the audience being able to recall at a granular level what you said?
+Well, that's absolutely fascinating. What does this have to do with technical speaking? Well honestly, the amazing, special, secret sauce of great technical speaking is to *activate the material emotionally*. I want you to think about this the way we think about *write concern*. What kind of guarantee do you want in terms of the audience being able to recall at a granular level what you said?
 
 To absolutely guarantee that the audience remembers what you're sharing, can you find a way to tap into heightened emotional states?
 
