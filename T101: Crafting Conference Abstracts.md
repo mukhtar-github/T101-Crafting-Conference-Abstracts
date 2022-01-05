@@ -175,15 +175,7 @@ And if we've just done that, and there's some key insight there, they're more li
 
 So what else might you have written down from that list? Well I don't know if you noticed, and maybe it just went in one ear and out the other, but in the middle of that list of household items, there was a *giant, ferocious, pink mastodon*. Well, that's kind of weird, and it's totally unlike all the other things on the list. Well, guess what. One of the ways that *memory indexes* get created in the human mind is we tend to index on anything that is outstanding or completely unlike everything else.
 
-Well, that's interesting, because you know when you have slide, slide, slide, slide, slide, slide, slide, and then you stop everything and you're like, now I'm going to show you a demo.
-
-Well, that demo is actually a way of creating outstandingness.
-
-It's one of the reasons why we like to have demos.
-
-It's because they're different.
-
-They stand apart from the quality of the other information in the talk.
+Well, that's interesting, because you know when you have slide, slide, slide, slide, slide, slide, slide, and then you stop everything and you're like, now I'm going to show you a demo. *Well, that demo is actually a way of creating outstandingness*. It's one of the reasons why we like to have demos. It's because they're different. They stand apart from the quality of the other information in the talk.
 
 It's interesting too that sometimes what I will suggest to you is that you should create a specific theme or a kind of analogy inside your talk.
 
