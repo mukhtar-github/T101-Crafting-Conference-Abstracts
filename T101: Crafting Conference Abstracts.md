@@ -195,15 +195,7 @@ We remember things on the list that are repeated over and over again. So by goin
 
 This is another reason why this ancient wisdom about introduction, body, conclusion is really helpful. We tend to remember stuff that we hear more than three times. It's quite interesting. If you hear something once, you probably won't remember it. If you hear something twice. You probably won't remember it. It's not until around the third time that deep in your brain, you've decided to start to wave a little flag that says, hey, I think we need to index this, because it's coming back often, and it may be important.
 
-Now I know that deep down, a lot of us are relational thinkers.
-
-We believe in the third normal form and that everything should go into the database once and only once.
-
-But of course, we don't work in that way anymore-- not with MongoDB.
-
-We have a whole 'nother way of doing things, and repeating data is actually not a problem.
-
-So I'm going to encourage you to repeat yourself a little more often than you normally do in your talk, because it's actually true that when you repeat something often, people are more likely to remember it.
+Now I know that deep down, a lot of us are relational thinkers. We believe in the third normal form and that everything should go into the database once and only once. But of course, we don't work in that way anymore -- not with MongoDB. We have a whole another way of doing things, and repeating data is actually not a problem. So I'm going to encourage you to repeat yourself a little more often than you normally do in your talk, because it's actually true that when you repeat something often, people are more likely to remember it.
 
 Now, I know that can feel sometimes like you're talking down to your audience, and that's not really what this is.
 
