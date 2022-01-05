@@ -208,3 +208,68 @@ Now, we've talked about *limited active memory*, the capped collection, if you w
 Again, that doesn't give us a formula for what works in a technical talk, but it does give us some clear ideas about why some talks might fail. If they're too dense, structurally opaque, and don't capitalize on the memory indexing strategies of the audience, they'll be both hard to follow and hard to remember. And now there's one more thing we need to talk about. And it might be the most important thing of all.
 
 At the beginning of this session I mentioned that there was a third characteristic of the brain that we had to discuss. Let's call it *special secret amazing talk sauce*. Now, this is where things get a little weird, because *special secret amazing talk sauce* flies in the face of everything we think we know about technical speaking. To get a sense of what this is about, I want you to take a moment to recall some of the events or moments in your life that you remember most vividly.
+
+### Creating a Memorable Tech Talk
+
+Now I don't know about you, but if you ask me to tell you what I had for lunch last Wednesday I almost certainly couldn't tell you. I don't even remember what the weather was like last Wednesday. I don't remember what I was doing last Wednesday. So that's a day that I don't recall very vividly. But there are days that I recall extremely vividly. And what days might those be?
+
+Well, if you think about the day you got married or the day you had your kid or the day your dog came to you for the first time, any one of these things, you would remember a lot more vividly than I remember last Wednesday.
+
+And why is that?
+
+Well, there's a very simple reason for it.
+
+Because anytime we're in a heightened emotional state, our memories tend to become more granular and more vivid.
+
+Well, that's absolutely fascinating.
+
+What does this have to do with technical speaking?
+
+Well honestly, the amazing, special, secret sauce of great technical speaking is to activate the material emotionally.
+
+I want you to think about this the way we think about write concern.
+
+What kind of guarantee do you want in terms of the audience being able to recall at a granular level what you said?
+
+To absolutely guarantee that the audience remembers what you're sharing, can you find a way to tap into heightened emotional states?
+
+You can.
+
+I know it seems really perverse to talk about in the context of technical speaking, and it's super counterintuitive, but trust me, after eight years of watching talks, I think this is really true.
+
+Even in a technical talk, if you can leverage some kind of emotion, you have a better chance of getting them to remember it.
+
+So one of the things that Elliot talks about sometimes in his keynotes year after year is something I absolutely love.
+
+And I think it's relevant to this particular audience and what gets them going emotionally.
+
+He's often fond of saying of a new feature, you do this and it just works.
+
+I want you to think for a minute about that feeling of something just working.
+
+There's actually a feeling underneath of that.
+
+I don't know what you want to call it.
+
+If you want to call it satisfaction or freedom or a feeling maybe of mastery, that feeling is actually very powerful, particularly to a roomful of developers.
+
+If you can evoke something in your talk that gives them that feeling of mastery or something just working, it's actually an emotional thing that you're doing in the mind of this particular audience.
+
+When we show this audience code, that's a feeling of familiarity and collegiality.
+
+There are actually emotional resonances under why that kind of content works for this particular audience.
+
+So if you can do something that's empowering or motivating or even funny or delightful inside your talk, guess what-- they're more likely to remember it.
+
+This feeling of heightened emotional states can even be a little bit more tactical.
+
+If you want to create some kind of suspense or surprise, that can actually create some emotion in your audience.
+
+So even though what we're talking about is deeply technical talks, what we actually need to do in order for the talks to be truly, truly memorable is to create some kind of feeling inside the audience.
+
+So I want you to think a little bit about your topic and about your content, broadly defined.
+
+There's probably some way in which what you're talking about can be useful or exciting to this audience.
+
+And what we're going to try to do in the next couple of months is to dial up that feeling as high as it can go, because we know when you have an emotional component to something, you tend to recall it more vividly.
+
