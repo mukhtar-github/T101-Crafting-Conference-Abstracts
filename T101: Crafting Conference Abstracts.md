@@ -219,29 +219,11 @@ Well, that's absolutely fascinating. What does this have to do with technical sp
 
 To absolutely guarantee that the audience remembers what you're sharing, can you find a way *to tap into heightened emotional states*? You can. I know it seems really perverse to talk about in the context of technical speaking, and it's super counterintuitive, but trust me, after eight years of watching talks, I think this is really true. *Even in a technical talk, if you can leverage some kind of emotion, you have a better chance of getting them to remember it*.
 
-So one of the things that Elliot talks about sometimes in his keynotes year after year is something I absolutely love.
+So one of the things that Elliot talks about sometimes in his keynotes year after year is something I absolutely love. And I think it's relevant to this particular audience and what gets them going emotionally. He's often fond of saying of a new feature, you do this and it just works. I want you to think for a minute about that feeling of something just working. There's actually a feeling underneath of that.
 
-And I think it's relevant to this particular audience and what gets them going emotionally.
+I don't know what you want to call it. *If you want to call it satisfaction or freedom or a feeling maybe of mastery, that feeling is actually very powerful, particularly to a roomful of developers*. If you can evoke something in your talk that gives them that feeling of mastery or something just working, it's actually an emotional thing that you're doing in the mind of this particular audience.
 
-He's often fond of saying of a new feature, you do this and it just works.
-
-I want you to think for a minute about that feeling of something just working.
-
-There's actually a feeling underneath of that.
-
-I don't know what you want to call it.
-
-If you want to call it satisfaction or freedom or a feeling maybe of mastery, that feeling is actually very powerful, particularly to a roomful of developers.
-
-If you can evoke something in your talk that gives them that feeling of mastery or something just working, it's actually an emotional thing that you're doing in the mind of this particular audience.
-
-When we show this audience code, that's a feeling of familiarity and collegiality.
-
-There are actually emotional resonances under why that kind of content works for this particular audience.
-
-So if you can do something that's empowering or motivating or even funny or delightful inside your talk, guess what-- they're more likely to remember it.
-
-This feeling of heightened emotional states can even be a little bit more tactical.
+When we show this audience code, that's a feeling of familiarity and collegiality. There are actually emotional resonances under why that kind of content works for this particular audience. *So if you can do something that's empowering or motivating or even funny or delightful inside your talk, guess what -- they're more likely to remember it*. This feeling of heightened emotional states can even be a little bit more tactical.
 
 If you want to create some kind of suspense or surprise, that can actually create some emotion in your audience.
 
